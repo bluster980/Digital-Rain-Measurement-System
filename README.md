@@ -1,4 +1,4 @@
-# Digital Rain Measurement System using Arduino
+# Digital Rain Measurement System
 
 ## Introduction
 
